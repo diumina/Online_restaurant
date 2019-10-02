@@ -1,0 +1,44 @@
+﻿@using Simple_shop.Models;
+@model DishInfoViewModel
+
+@{
+	ViewData["Title"] = $"Order {@Model.Name} | MAMA MAНАНА";
+}
+
+<div class="dish-info-wrapper">
+	<div class="detail-dish-img-inner">
+		<div>
+			<img class="dish-img" src="@Model.ImageURL" />
+		</div>
+	</div>
+	<div class="detail-dish-info-inner">
+		<div class="dish-info-name">
+			@Model.Name
+			<a asp-controller="Dish" asp-action="Edit" asp-route-id="@Model.Id" class="dish-edit fas fa-pen"></a>
+			<a @*asp-controller="Dish" asp-action="Delete" asp-route-id="@Model.Id"*@ class="dish-delete fas fa-trash-alt" id="dish-delete"></a>
+		</div>
+		<div class="dish-info-description">@Model.Description</div>
+		<div class="dish-info-weight">@Model.Weight g</div>
+		<div class="dish-info-price">@Model.Price ₴</div>
+		<div class="dish-info-amount">
+			<span class="change-amount">-</span>
+			<input type="text" name="@Model.Amount" value="1" id="input-amount" class="input-amount" />
+			<span class="change-amount">+</span>
+		</div>
+		<button class="dish-info-make-order">Make</button>
+	</div>
+</div>
+
+<script>
+	"use strict"
+
+	$(document).ready(function () {
+		$("#dish-delete").click(function () {
+			confirm("Do you really want to remove this dish?");
+		});
+	});
+</script>
+
+
+
+

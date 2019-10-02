@@ -1,0 +1,21 @@
+﻿@using  Simple_shop.Models;
+@model IEnumerable<DishListItemViewModel>
+
+@{
+	ViewData["Title"] = $"Dishes | MAMA MAНАНА";
+}
+
+<div class="dish-list-container">
+	@foreach (var dish in Model)
+	{
+		<div class="dish-container">
+			<a asp-controller="Dish" asp-action="Info" asp-route-id="@dish.Id">
+				<img class="dish-img" src="@dish.ImageURL" />
+			</a>
+			<div class="dish-name">@dish.Name</div>
+			<div class="dish-weight">@dish.Weight g</div>
+			<div class="dish-price">@dish.Price ₴</div>
+		</div>
+	}
+</div>
+

@@ -1,0 +1,44 @@
+﻿@using Simple_shop.Models;
+@model DishEditViewModel
+
+@{
+	ViewData["Title"] = "Edit | MAMA MAНАНА";
+}
+
+<form asp-controller="Dish" asp-action="Edit" method="post" enctype="multipart/form-data">
+	<div> 
+		<div>
+			<img class="dish-img" src="@Model.ImageURL" />
+		</div>
+		<div>
+			<label asp-for="UploadedImage"></label>
+			<input type="file" asp-for="UploadedImage" />
+		</div>
+	</div>
+	<div>
+		<div>
+			<label asp-for="DishGroupId"></label>
+			<select asp-for="DishGroupId" asp-items="Model.DishGroups"></select>
+		</div>
+		<div>
+			<label asp-for="Name"></label>
+			<input type="text" asp-for="Name" />
+		</div>
+		<div>
+			<label asp-for="Description"></label>
+			<input type="text" asp-for="Description" />
+		</div>
+		<div>
+			<label asp-for="Weight"></label>
+			<input type="text" asp-for="Weight" />
+		</div>
+		<div>
+			<label asp-for="Price"></label>
+			<input type="text" asp-for="Price" />
+		</div>
+		<div>
+			<input type="submit" value="Save" />
+		</div>
+	</div>
+</form>
+

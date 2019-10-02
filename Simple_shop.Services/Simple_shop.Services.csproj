@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="9.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Simple_shop.EF\Simple_shop.EF.csproj" />
+    <ProjectReference Include="..\Simple_shop.Entities\Simple_shop.Entities.csproj" />
+    <ProjectReference Include="..\Simple_shop.Repository\Simple_shop.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,14 @@
+D:\C# Alina\Core Project\Simple_shop\Simple_shop.Repository\bin\Debug\netcoreapp2.1\Simple_shop.Repository.deps.json
+D:\C# Alina\Core Project\Simple_shop\Simple_shop.Repository\bin\Debug\netcoreapp2.1\Simple_shop.Repository.dll
+D:\C# Alina\Core Project\Simple_shop\Simple_shop.Repository\bin\Debug\netcoreapp2.1\Simple_shop.Repository.pdb
+D:\C# Alina\Core Project\Simple_shop\Simple_shop.Repository\bin\Debug\netcoreapp2.1\Simple_shop.EF.dll
+D:\C# Alina\Core Project\Simple_shop\Simple_shop.Repository\bin\Debug\netcoreapp2.1\Simple_shop.Entities.dll
+D:\C# Alina\Core Project\Simple_shop\Simple_shop.Repository\bin\Debug\netcoreapp2.1\Simple_shop.EF.pdb
+D:\C# Alina\Core Project\Simple_shop\Simple_shop.Repository\bin\Debug\netcoreapp2.1\Simple_shop.Entities.pdb
+D:\C# Alina\Core Project\Simple_shop\Simple_shop.Repository\obj\Debug\netcoreapp2.1\Simple_shop.Repository.csprojAssemblyReference.cache
+D:\C# Alina\Core Project\Simple_shop\Simple_shop.Repository\obj\Debug\netcoreapp2.1\Simple_shop.Repository.csproj.CoreCompileInputs.cache
+D:\C# Alina\Core Project\Simple_shop\Simple_shop.Repository\obj\Debug\netcoreapp2.1\Simple_shop.Repository.AssemblyInfoInputs.cache
+D:\C# Alina\Core Project\Simple_shop\Simple_shop.Repository\obj\Debug\netcoreapp2.1\Simple_shop.Repository.AssemblyInfo.cs
+D:\C# Alina\Core Project\Simple_shop\Simple_shop.Repository\obj\Debug\netcoreapp2.1\Simple_shop.Repository.csproj.CopyComplete
+D:\C# Alina\Core Project\Simple_shop\Simple_shop.Repository\obj\Debug\netcoreapp2.1\Simple_shop.Repository.dll
+D:\C# Alina\Core Project\Simple_shop\Simple_shop.Repository\obj\Debug\netcoreapp2.1\Simple_shop.Repository.pdb

@@ -1,0 +1,12 @@
+D:\C# Alina\Core Project\Simple_shop\Simple_shop.EF\bin\Debug\netcoreapp2.1\Simple_shop.EF.deps.json
+D:\C# Alina\Core Project\Simple_shop\Simple_shop.EF\bin\Debug\netcoreapp2.1\Simple_shop.EF.dll
+D:\C# Alina\Core Project\Simple_shop\Simple_shop.EF\bin\Debug\netcoreapp2.1\Simple_shop.EF.pdb
+D:\C# Alina\Core Project\Simple_shop\Simple_shop.EF\bin\Debug\netcoreapp2.1\Simple_shop.Entities.dll
+D:\C# Alina\Core Project\Simple_shop\Simple_shop.EF\bin\Debug\netcoreapp2.1\Simple_shop.Entities.pdb
+D:\C# Alina\Core Project\Simple_shop\Simple_shop.EF\obj\Debug\netcoreapp2.1\Simple_shop.EF.csprojAssemblyReference.cache
+D:\C# Alina\Core Project\Simple_shop\Simple_shop.EF\obj\Debug\netcoreapp2.1\Simple_shop.EF.csproj.CoreCompileInputs.cache
+D:\C# Alina\Core Project\Simple_shop\Simple_shop.EF\obj\Debug\netcoreapp2.1\Simple_shop.EF.AssemblyInfoInputs.cache
+D:\C# Alina\Core Project\Simple_shop\Simple_shop.EF\obj\Debug\netcoreapp2.1\Simple_shop.EF.AssemblyInfo.cs
+D:\C# Alina\Core Project\Simple_shop\Simple_shop.EF\obj\Debug\netcoreapp2.1\Simple_shop.EF.csproj.CopyComplete
+D:\C# Alina\Core Project\Simple_shop\Simple_shop.EF\obj\Debug\netcoreapp2.1\Simple_shop.EF.dll
+D:\C# Alina\Core Project\Simple_shop\Simple_shop.EF\obj\Debug\netcoreapp2.1\Simple_shop.EF.pdb

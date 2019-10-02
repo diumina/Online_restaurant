@@ -1,0 +1,35 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Index</h2>
+
+<div class="index-wrapper">
+	<div onclick="divClickHandler(this)" id="div-1">
+		hello, it's first div
+	</div>
+
+	<div id="div-2">
+		hello, it's second div
+	</div>
+</div>
+
+<script>
+
+	$(document).ready(function () {
+		setEventHandlers();
+	});
+
+	function setEventHandlers() {
+		var div2 = document.querySelector("#div-2");
+
+		div2.onclick = function () {
+			console.log(this);
+		}
+	}
+
+	function divClickHandler(el) {
+		console.log(el);
+	}
+
+</script>

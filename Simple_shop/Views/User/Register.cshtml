@@ -1,0 +1,44 @@
+﻿@using Simple_shop.Models
+@model RegisterViewModel
+
+@{
+	ViewData["Title"] = "Sing up";
+}
+
+<h3>Create your personal account</h3>
+<form method="post" asp-controller="User" asp-action="Register">
+	<div asp-validation-summary="ModelOnly"></div>
+	<div>
+		<label asp-for="FirstName"></label><br />
+		<input asp-for="FirstName" />
+		<span asp-validation-for="FirstName"></span>
+	</div>
+	<div>
+		<label asp-for="LastName"></label><br />
+		<input asp-for="LastName" />
+		<span asp-validation-for="LastName"></span>
+	</div>
+	<div>
+		<label asp-for="Email"></label><br />
+		<input asp-for="Email" />
+		<span asp-validation-for="Email"></span>
+	</div>
+	<div>
+		<label asp-for="Address"></label><br />
+		<input asp-for="Address" />
+		<span asp-validation-for="Address"></span>
+	</div>
+	<div>
+		<label asp-for="Password"></label><br />
+		<input asp-for="Password" />
+		<span asp-validation-for="Password"></span>
+	</div>
+	<div>
+		<label asp-for="PasswordConfirm"></label><br />
+		<input asp-for="PasswordConfirm" />
+		<span asp-validation-for="PasswordConfirm"></span>
+	</div>
+	<div>
+		<input type="submit" value="Submit" />
+	</div>
+</form>

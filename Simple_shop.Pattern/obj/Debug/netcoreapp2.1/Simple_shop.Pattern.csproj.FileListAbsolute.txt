@@ -1,0 +1,4 @@
+D:\C# Alina\Core Project\Simple_shop\Simple_shop.Pattern\obj\Debug\netcoreapp2.1\Simple_shop.Pattern.csprojAssemblyReference.cache
+D:\C# Alina\Core Project\Simple_shop\Simple_shop.Pattern\obj\Debug\netcoreapp2.1\Simple_shop.Pattern.csproj.CoreCompileInputs.cache
+D:\C# Alina\Core Project\Simple_shop\Simple_shop.Pattern\obj\Debug\netcoreapp2.1\Simple_shop.Pattern.AssemblyInfoInputs.cache
+D:\C# Alina\Core Project\Simple_shop\Simple_shop.Pattern\obj\Debug\netcoreapp2.1\Simple_shop.Pattern.AssemblyInfo.cs

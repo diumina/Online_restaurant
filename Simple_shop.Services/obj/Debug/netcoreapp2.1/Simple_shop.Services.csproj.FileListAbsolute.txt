@@ -1,0 +1,16 @@
+D:\C# Alina\Core Project\Simple_shop\Simple_shop.Services\bin\Debug\netcoreapp2.1\Simple_shop.Services.deps.json
+D:\C# Alina\Core Project\Simple_shop\Simple_shop.Services\bin\Debug\netcoreapp2.1\Simple_shop.Services.dll
+D:\C# Alina\Core Project\Simple_shop\Simple_shop.Services\bin\Debug\netcoreapp2.1\Simple_shop.Services.pdb
+D:\C# Alina\Core Project\Simple_shop\Simple_shop.Services\bin\Debug\netcoreapp2.1\Simple_shop.EF.dll
+D:\C# Alina\Core Project\Simple_shop\Simple_shop.Services\bin\Debug\netcoreapp2.1\Simple_shop.Entities.dll
+D:\C# Alina\Core Project\Simple_shop\Simple_shop.Services\bin\Debug\netcoreapp2.1\Simple_shop.Repository.dll
+D:\C# Alina\Core Project\Simple_shop\Simple_shop.Services\bin\Debug\netcoreapp2.1\Simple_shop.EF.pdb
+D:\C# Alina\Core Project\Simple_shop\Simple_shop.Services\bin\Debug\netcoreapp2.1\Simple_shop.Entities.pdb
+D:\C# Alina\Core Project\Simple_shop\Simple_shop.Services\bin\Debug\netcoreapp2.1\Simple_shop.Repository.pdb
+D:\C# Alina\Core Project\Simple_shop\Simple_shop.Services\obj\Debug\netcoreapp2.1\Simple_shop.Services.csprojAssemblyReference.cache
+D:\C# Alina\Core Project\Simple_shop\Simple_shop.Services\obj\Debug\netcoreapp2.1\Simple_shop.Services.csproj.CoreCompileInputs.cache
+D:\C# Alina\Core Project\Simple_shop\Simple_shop.Services\obj\Debug\netcoreapp2.1\Simple_shop.Services.AssemblyInfoInputs.cache
+D:\C# Alina\Core Project\Simple_shop\Simple_shop.Services\obj\Debug\netcoreapp2.1\Simple_shop.Services.AssemblyInfo.cs
+D:\C# Alina\Core Project\Simple_shop\Simple_shop.Services\obj\Debug\netcoreapp2.1\Simple_shop.Services.csproj.CopyComplete
+D:\C# Alina\Core Project\Simple_shop\Simple_shop.Services\obj\Debug\netcoreapp2.1\Simple_shop.Services.dll
+D:\C# Alina\Core Project\Simple_shop\Simple_shop.Services\obj\Debug\netcoreapp2.1\Simple_shop.Services.pdb

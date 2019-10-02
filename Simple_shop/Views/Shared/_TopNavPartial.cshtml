@@ -1,0 +1,47 @@
+﻿<header class="top-nav">
+	<div class="header">
+		<div class="header-left-info">
+			<div class="ddl-city">
+				<span class="fas fa-map-marker-alt"></span>
+				<select>
+					<option>Kharkov</option>
+					<option>Kiev</option>
+					<option>Odessa</option>
+				</select>
+			</div>
+			<div class="work-hours">
+				<span class="fas fa-phone-alt"></span>
+				<span>Daily from 10:00 till 22:00</span>
+			</div>
+		</div>
+
+		<div class="header-logo">
+			<a href="https://localhost:44379/">
+				<img src="~/images/site-images/logo.png" title="МАМА МАНАНА" />
+			</a>
+		</div>
+		<div class="header-right-info">
+			<div class="languages">
+				<span>ukr</span>
+				<span>ru</span>
+				<span>en</span>
+			</div>
+			<div class="registration-authentication-basket">
+				<a class="sign-in" asp-controller="User" asp-action="Login">Sign in</a>
+				<a class="sign-up" asp-controller="User" asp-action="Register">Sign up</a>
+				<span class="basket fas fa-shopping-cart"></span>
+			</div>
+		</div>
+	</div>
+	<div class="top-menu">
+		<nav>
+			<a class="nav-top-menu-link" asp-controller="Dish" asp-action="List" asp-route-id="1">tone menu</a>
+			<a class="nav-top-menu-link" asp-controller="Dish" asp-action="List" asp-route-id="2">salads</a>
+			<a class="nav-top-menu-link" asp-controller="Dish" asp-action="List" asp-route-id="3">khinkali</a>
+			<a class="nav-top-menu-link" asp-controller="Dish" asp-action="List" asp-route-id="4">khachapuri</a>
+			<a class="nav-top-menu-link" asp-controller="Dish" asp-action="List" asp-route-id="5">hot snacks</a>
+			<a class="nav-top-menu-link" asp-controller="Dish" asp-action="List" asp-route-id="6">desserts</a>
+			<a class="nav-top-menu-link" asp-controller="Dish" asp-action="List" asp-route-id="7">bar</a>
+		</nav>
+	</div>
+</header>

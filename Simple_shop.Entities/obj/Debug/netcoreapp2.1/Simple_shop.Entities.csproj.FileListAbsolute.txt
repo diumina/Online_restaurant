@@ -1,0 +1,9 @@
+D:\C# Alina\Core Project\Simple_shop\Simple_shop.Entities\bin\Debug\netcoreapp2.1\Simple_shop.Entities.deps.json
+D:\C# Alina\Core Project\Simple_shop\Simple_shop.Entities\bin\Debug\netcoreapp2.1\Simple_shop.Entities.dll
+D:\C# Alina\Core Project\Simple_shop\Simple_shop.Entities\bin\Debug\netcoreapp2.1\Simple_shop.Entities.pdb
+D:\C# Alina\Core Project\Simple_shop\Simple_shop.Entities\obj\Debug\netcoreapp2.1\Simple_shop.Entities.csprojAssemblyReference.cache
+D:\C# Alina\Core Project\Simple_shop\Simple_shop.Entities\obj\Debug\netcoreapp2.1\Simple_shop.Entities.csproj.CoreCompileInputs.cache
+D:\C# Alina\Core Project\Simple_shop\Simple_shop.Entities\obj\Debug\netcoreapp2.1\Simple_shop.Entities.AssemblyInfoInputs.cache
+D:\C# Alina\Core Project\Simple_shop\Simple_shop.Entities\obj\Debug\netcoreapp2.1\Simple_shop.Entities.AssemblyInfo.cs
+D:\C# Alina\Core Project\Simple_shop\Simple_shop.Entities\obj\Debug\netcoreapp2.1\Simple_shop.Entities.dll
+D:\C# Alina\Core Project\Simple_shop\Simple_shop.Entities\obj\Debug\netcoreapp2.1\Simple_shop.Entities.pdb
